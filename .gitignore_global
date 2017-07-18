@@ -1,0 +1,9 @@
+# Git Global Ignore File
+
+# Ignore Bash environment file
+.env
+
+# Ignore bundle install --path=./.bundle
+.bundle
+
+
